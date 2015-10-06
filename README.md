@@ -6,8 +6,9 @@
 
 #C'est cool
 
-# gsi c'est la vie 
+# gsi c'est la vie
 
 #gipad aussi
 
 # pull pour bapt
+#C'est la loose
